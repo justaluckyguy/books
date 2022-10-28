@@ -6,7 +6,9 @@
 
 2. 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式, 其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站,[格式转换](https://onlineconvertfree.com/zh/)
 
-[常用工具](https://github.com/xjq7/awesome-study))
+[常用工具](https://github.com/xjq7/awesome-study)
+
+[runcode](https://r.xjq.icu) 在线运行代码, 编程语言学习免本地环境安装
 
 ## 计算机
 
