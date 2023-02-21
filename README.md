@@ -6,10 +6,6 @@
 
 2. 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式, 其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站,[格式转换](https://onlineconvertfree.com/zh/)
 
-[常用工具](https://github.com/xjq7/awesome-study)
-
-[runcode](https://r.xjq.icu) 在线运行代码, 编程语言学习免本地环境安装
-
 ## 计算机
 
 - [硅谷之火(第 3 版)](<https://static.xjq.icu/book/硅谷之火(第3版).mobi>)
@@ -718,7 +714,7 @@
 
 - Tensorflow 教程,pdf,链接: https://pan.baidu.com/s/10uQaXta4NKNtZ3j86xzxTQ 提取码: gsv3
 
-- Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案,链接: https://pan.baidu.com/s/1EKdZ6pTgqGUQQPTISLhlJg 提取码: i9s5
+- [Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案](https://www.aliyundrive.com/s/Wu2Z2LRWzPh)
 
 - [深度学习：智能时代的核心驱动力量.epub](https://static.xjq.icu/book/深度学习：智能时代的核心驱动力量.epub)
 
