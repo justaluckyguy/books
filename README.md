@@ -1,12 +1,12 @@
 ## 必读!!!
 
-1. 按分类目录存储,分享出来的链接是整个分类目录的,每本书往上的第一个链接就是
+关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式
 
-2. 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式, 其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站,[格式转换](https://onlineconvertfree.com/zh/)
+其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站, [格式转换工具](https://onlineconvertfree.com/zh/)
 
 ## books
 
-后续 README 做拆分处理, 拆分到各个目录下
+渐进式拆分中, 首页找不到的移到了文件夹中
 
 <!--insert-books-head-->
 
