@@ -29,16 +29,6 @@
 
 - 穿越计算机的迷雾,链接: https://pan.baidu.com/s/1EsDJiR1JOpFSy4s_7aeM6g 提取码: qxg5
 
-### 编译原理
-
-链接: https://pan.baidu.com/s/1pYDZ55OjBo-qkttagmBwRg 提取码: uydj
-
-- 自制编程语言
-
-- 编译原理及实践,pdf
-
-- 现代编译原理,pdf
-
 ### 网络安全
 
 链接: https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg 提取码: np54
