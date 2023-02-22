@@ -439,10 +439,6 @@
 
 链接: https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ 提取码: e575
 
-#### window
-
-- 精解 windows 10,epub
-
 #### Linux
 
 - 循序渐进 Linux-第 2 版-服务器搭建系统
