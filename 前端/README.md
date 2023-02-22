@@ -6,14 +6,14 @@
 - Three.js开发指南
   - [阿里云盘](https://www.aliyundrive.com/s/QfGxLo8cM9L), 提取码: 5k5b
 
-## nodejs
+## Nodejs
 
 - Node.js项目实践
   - [百度云盘](https://pan.baidu.com/s/1dMBSzLfle0j5Xgx2OMzUYg ), 提取码: book
 
 ## 框架
 
-- 深入react 技术栈
+- 深入react技术栈
   - [阿里云盘](https://www.aliyundrive.com/s/R5hzkPTz4Cz), 提取码: 49ay
 - 权威指南Vue.js2
   - [阿里云盘](https://www.aliyundrive.com/s/bw8yyq2YFrV), 提取码: 53ui
@@ -24,7 +24,7 @@
 
 - Web前端自动化构建：Gulp、Bower和Yeoman开发指南
   - [阿里云盘](https://www.aliyundrive.com/s/DtNsHE24TQM), 提取码: hg82
-- 深入浅出Webpack
+- 深入浅出 Webpack
   - [阿里云盘](https://www.aliyundrive.com/s/aSGq7fsq3eU), 提取码: dt89
 
 ## 其他
