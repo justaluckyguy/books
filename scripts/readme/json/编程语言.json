@@ -27,5 +27,39 @@
         }
       ]
     }
+  ],
+  "R": [
+    {
+      "name": "R 语言编程艺术",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1UKNw7JJUXWMUBZ3kZPYybw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/EgywZXta1WE",
+          "code": "oo25"
+        }
+      ]
+    }
+  ],
+  "汇编语言": [
+    {
+      "name": "汇编语言",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1jW1EGAA7zQsaoYmFwGbGUQ",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/PM8AQeX56N1",
+          "code": "dz28"
+        }
+      ]
+    }
   ]
 }

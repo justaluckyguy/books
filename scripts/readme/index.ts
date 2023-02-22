@@ -19,7 +19,7 @@ async function readme() {
   });
   readmeContent = readmeContent.replace(
     /(?<=<!--insert-books-head-->\n)(.|\n)+(?=<!--insert-books-end-->)/g,
-    content
+    '\n' + content
   );
   fs.writeFileSync('./README.md', readmeContent, { encoding: 'utf8' });
 }

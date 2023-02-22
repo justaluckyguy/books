@@ -9,6 +9,7 @@
 渐进式拆分中, 首页找不到的移到了文件夹中
 
 <!--insert-books-head-->
+
 - [前端](https://github.com/xjq7/books/tree/master/前端)
 - [编程语言](https://github.com/xjq7/books/tree/master/编程语言)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
@@ -88,14 +89,6 @@
 - 深入理解 c11(c11 新特性解析与应用),epub,mobi
 
 - C++反汇编与逆向分析技术揭秘,pdf
-
-#### 汇编
-
-- 汇编语言
-
-#### R
-
-- R 语言编程艺术
 
 #### _C#_
 
