@@ -4,13 +4,14 @@
 
 2. 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式, 其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站,[格式转换](https://onlineconvertfree.com/zh/)
 
-## books 
+## books
 
 后续 README 做拆分处理, 拆分到各个目录下
 
 <!--insert-books-head-->
-- [前端](https://github.com/xjq7/books/tree/master/front-end)
-- [计算机网络](https://github.com/xjq7/books/tree/master/network)
+- [前端](https://github.com/xjq7/books/tree/master/前端)
+- [编程语言](https://github.com/xjq7/books/tree/master/编程语言)
+- [计算机网络](https://github.com/xjq7/books/tree/master/计算机网络)
 <!--insert-books-end-->
 
 ## 计算机
@@ -609,8 +610,6 @@
 #### 可视化
 
 - 精通 D3.js 交互式数据可视化高级编程,pdf
-
-- WebGL 编程指南,pdf
 
 - Three.js 开发指南-第 2 版,pdf
 
