@@ -10,3 +10,9 @@
   - [阿里云盘](https://www.aliyundrive.com/s/MSo3zLzfXJv), 提取码: ea88
   - [百度云盘](https://pan.baidu.com/s/1qjmBvKPyCS6Fa3Hg_Gmyxw), 提取码: book
 
+## 操作系统
+
+- 精解 windows 10
+  - [阿里云盘](https://www.aliyundrive.com/s/tB3oYAsZ8o2), 提取码: 55ja
+  - [百度云盘](https://pan.baidu.com/s/1vpqC_yYMLTaqrKOUzdhwgQ), 提取码: book
+
