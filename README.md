@@ -9,6 +9,7 @@
 后续 README 做拆分处理, 拆分到各个目录下
 
 <!--insert-books-head-->
+
 - [前端](https://github.com/xjq7/books/tree/master/前端)
 - [编程语言](https://github.com/xjq7/books/tree/master/编程语言)
 - [计算机网络](https://github.com/xjq7/books/tree/master/计算机网络)
@@ -27,22 +28,6 @@
 - 未来简史,https://image.xjq.icu/2021/3/8/2021.3.8-%E6%9C%AA%E6%9D%A5%E7%AE%80%E5%8F%B2.epub
 
 - 穿越计算机的迷雾,链接: https://pan.baidu.com/s/1EsDJiR1JOpFSy4s_7aeM6g 提取码: qxg5
-
-### 计算机网络
-
-链接: https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ 提取码: q8pa
-
-- TCP-IP 详解(卷一、二、三)
-
-- 计算机网络(第 7 版) 谢希仁
-
-- 图解 TCPIP
-
-- 计算机网络-自顶向下方法
-
-- HTTP 权威指南,epub,pdf
-
-- 深入理解计算机网络,mobi,epub
 
 ### 编译原理
 
