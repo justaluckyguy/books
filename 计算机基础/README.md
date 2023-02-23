@@ -15,4 +15,13 @@
 - 精解 windows 10
   - [阿里云盘](https://www.aliyundrive.com/s/tB3oYAsZ8o2), 提取码: 55ja
   - [百度云盘](https://pan.baidu.com/s/1vpqC_yYMLTaqrKOUzdhwgQ), 提取码: book
+- Linux内核文档
+  - [阿里云盘](https://www.aliyundrive.com/s/mqCsZY1wVFv), 提取码: 2ey8
+  - [百度云盘](https://pan.baidu.com/s/1lE5y9Gqm5Qh9NssruGVLRQ), 提取码: book
+- Linux命令行与shell脚本编程大全
+  - [阿里云盘](https://www.aliyundrive.com/s/3b1aday2RLZ), 提取码: 1y6w
+  - [百度云盘](https://pan.baidu.com/s/19q9udDDjedhWE7KyuU7KTQ), 提取码: book
+- Linux就该这么学
+  - [阿里云盘](https://www.aliyundrive.com/s/vcymCxcrgHh), 提取码: 3tq5
+  - [百度云盘](https://pan.baidu.com/s/1M8eJH5pQpYx3lcRvoqdAtg), 提取码: book
 
