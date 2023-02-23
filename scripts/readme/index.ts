@@ -63,10 +63,13 @@ async function jsonWr() {
       content += `## ${title}\n\n`;
       value.forEach((o: { name: string; source: any[]; spec: string[] }) => {
         const { name, source, spec } = o;
-        content += `- ${name}`;
+        content += `- ${name}\n`;
 
-        if (spec) content += `, 包含 ${spec.join(', ')} 格式`;
-        content += '\n';
+        if (spec && spec.length) {
+          content += '\n';
+          content += `  包含 ${spec.join(', ')} 格式`;
+          content += '\n\n';
+        }
 
         source.forEach((o) => {
           const { name, link, code } = o;
