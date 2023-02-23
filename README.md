@@ -26,6 +26,7 @@
   - [操作系统](https://github.com/xjq7/books/tree/master/计算机基础#操作系统)
 - [计算机网络](https://github.com/xjq7/books/tree/master/计算机网络)
   - [协议](https://github.com/xjq7/books/tree/master/计算机网络#协议)
+
 <!--insert-books-category-end-->
 
 ## 参与贡献
@@ -563,28 +564,6 @@ json 数据更新提交至 master 分支后触发 github action 更新主页 REA
 - 精通 D3.js 交互式数据可视化高级编程,pdf
 
 - Three.js 开发指南-第 2 版,pdf
-
-#### HTML
-
-- HTML5 移动 Web 开发指南-唐俊开
-
-- HTML5 揭秘,pdf
-
-- HTML 5 与 CSS 3 权威指南（第 3 版）,mobi
-
-#### CSS
-
-- CSS 世界-张鑫旭,mobi,pdf,epub
-
-- [CSS 世界.mobi](https://static.xjq.icu/book/CSS世界.mobi)
-
-- CSS 权威指南-第三版
-
-- CSS3 实战
-
-- CSS 那些事儿
-
-- [CSS 揭秘.mobi](https://static.xjq.icu/book/CSS揭秘.mobi)
 
 #### 安全
 

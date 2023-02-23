@@ -92,7 +92,131 @@
       ]
     }
   ],
-
+  "HTML": [
+    {
+      "name": "HTML5揭秘",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/KXtx6YaZ69K",
+          "code": "wu75"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1xF0dgn4G-9sCChNb64wD4w",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "HTML5移动Web开发指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/wBSdt2iern9",
+          "code": "w2w8"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1AKfTOV8z169Bjjq0pz1R7w",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "HTML5与CSS3权威指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/8mM3mJmD2hV",
+          "code": "5w1z"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1N7KvfKp9Kzs_gqeVqbhU6Q",
+          "code": "book"
+        }
+      ]
+    }
+  ],
+  "CSS": [
+    {
+      "name": "CSS揭秘",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/AzzvwPbybNn",
+          "code": "21vz"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1OWqq5tBmepzqrKLnwUZ3YQ",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "CSS3实战",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/7yQ66ji6vXv",
+          "code": "90ln"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1ZJFfGa9ocfM3c8V_snVsUQ",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "CSS世界",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/2LMxQijoYet",
+          "code": "60vf"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1dz8F4Jgaqp39_faws0sIMA",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf", "epub", "mobi"]
+    },
+    {
+      "name": "CSS权威指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/Jz9C6BxFgsR",
+          "code": "7pt0"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/15a1TNqKQBv9OtlMaTJkmmg",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "CSS那些事儿",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/t7VzUHQHpDQ",
+          "code": "27de"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1PMkZC2948Cc4DB-4xhoQrA",
+          "code": "book"
+        }
+      ]
+    }
+  ],
   "其他": [
     {
       "name": "现代前端技术解析",

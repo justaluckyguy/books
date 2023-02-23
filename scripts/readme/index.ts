@@ -30,7 +30,7 @@ async function readme() {
   });
   readmeContent = readmeContent.replace(
     /(?<=<!--insert-books-category-head-->\n)(.|\n)+(?=<!--insert-books-category-end-->)/gm,
-    '\n' + content
+    '\n' + content + '\n'
   );
 
   fs.writeFileSync('README.md', readmeContent, { encoding: 'utf8' });
@@ -61,9 +61,13 @@ async function jsonWr() {
 
     Object.entries(json).forEach(([title, value]) => {
       content += `## ${title}\n\n`;
-      value.forEach((o: { name: string; source: any[] }) => {
-        const { name, source } = o;
-        content += `- ${name}\n`;
+      value.forEach((o: { name: string; source: any[]; spec: string[] }) => {
+        const { name, source, spec } = o;
+        content += `- ${name}`;
+
+        if (spec) content += `, 包含 ${spec.join(', ')} 格式`;
+        content += '\n';
+
         source.forEach((o) => {
           const { name, link, code } = o;
           content += `  - [${name}](${link})`;
