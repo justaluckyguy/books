@@ -460,23 +460,7 @@ json 数据更新提交至 master 分支后触发 github action 更新主页 REA
 
 - Linux 命令详解词典
 
-- 深入 Linux 内核架构
-
-- Linux 就该这么学
-
 - Linux shell 编程从初学到精通
-
-- Linux 程序设计,mobi
-
-- Linux Shell 命令行及脚本编程实例详解,mobi
-
-- Linux 命令行与 shell 脚本编程大全（第 3 版）,mobi,epub
-
-- 理解 Linux 进程,pdf
-
-- 深入理解 Linux 内核,pdf
-
-- Linux 内核文档,pdf
 
 #### UNIX
 

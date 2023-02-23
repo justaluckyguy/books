@@ -106,6 +106,81 @@
           "code": "book"
         }
       ]
+    },
+    {
+      "name": "Linux程序设计",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/HY37bgstEhU",
+          "code": "14dk"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1FuVFC4yRff2KQB0YZhhB4w",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "理解Linux进程",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/MoJptUmH7eA",
+          "code": "r9q5"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1AcBsNnZ_f2r_RhyLMyzvmQ",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "深入理解linux内核",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/kf3GiZcrfUc",
+          "code": "9rg7"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1yZfAFbEOXhL2ujiezD7bgg",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "Linux Shell命令行及脚本编程实例详解",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/CH4p4FowS4z",
+          "code": "a85v"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1OUuxUC7qjZEEyq4NTAl4rQ",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "深入Linux内核架构",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/esNxzaiYA1m",
+          "code": "07av"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1dGhWb1WfdJv1Nc3wUjsS8w",
+          "code": "book"
+        }
+      ]
     }
   ]
 }
