@@ -18,6 +18,7 @@
   - [CSS](https://github.com/xjq7/books/tree/master/前端#CSS)
   - [其他](https://github.com/xjq7/books/tree/master/前端#其他)
 - [编程语言](https://github.com/xjq7/books/tree/master/编程语言)
+  - [C](https://github.com/xjq7/books/tree/master/编程语言#C)
   - [正则表达式](https://github.com/xjq7/books/tree/master/编程语言#正则表达式)
   - [Nodejs](https://github.com/xjq7/books/tree/master/编程语言#Nodejs)
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
@@ -26,7 +27,9 @@
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
   - [操作系统](https://github.com/xjq7/books/tree/master/计算机基础#操作系统)
 - [计算机网络](https://github.com/xjq7/books/tree/master/计算机网络)
+  - [基础](https://github.com/xjq7/books/tree/master/计算机网络#基础)
   - [协议](https://github.com/xjq7/books/tree/master/计算机网络#协议)
+  - [网络编程](https://github.com/xjq7/books/tree/master/计算机网络#网络编程)
 
 <!--insert-books-category-end-->
 
