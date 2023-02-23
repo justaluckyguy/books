@@ -27,6 +27,36 @@
 - 深入浅出 Webpack
   - [阿里云盘](https://www.aliyundrive.com/s/aSGq7fsq3eU), 提取码: dt89
 
+## HTML
+
+- HTML5揭秘
+  - [阿里云盘](https://www.aliyundrive.com/s/KXtx6YaZ69K), 提取码: wu75
+  - [百度云盘](https://pan.baidu.com/s/1xF0dgn4G-9sCChNb64wD4w), 提取码: book
+- HTML5移动Web开发指南
+  - [阿里云盘](https://www.aliyundrive.com/s/wBSdt2iern9), 提取码: w2w8
+  - [百度云盘](https://pan.baidu.com/s/1AKfTOV8z169Bjjq0pz1R7w), 提取码: book
+- HTML5与CSS3权威指南
+  - [阿里云盘](https://www.aliyundrive.com/s/8mM3mJmD2hV), 提取码: 5w1z
+  - [百度云盘](https://pan.baidu.com/s/1N7KvfKp9Kzs_gqeVqbhU6Q), 提取码: book
+
+## CSS
+
+- CSS揭秘
+  - [阿里云盘](https://www.aliyundrive.com/s/AzzvwPbybNn), 提取码: 21vz
+  - [百度云盘](https://pan.baidu.com/s/1OWqq5tBmepzqrKLnwUZ3YQ), 提取码: book
+- CSS3实战
+  - [阿里云盘](https://www.aliyundrive.com/s/7yQ66ji6vXv), 提取码: 90ln
+  - [百度云盘](https://pan.baidu.com/s/1ZJFfGa9ocfM3c8V_snVsUQ), 提取码: book
+- CSS世界, 包含 pdf, epub, mobi 格式
+  - [阿里云盘](https://www.aliyundrive.com/s/2LMxQijoYet), 提取码: 60vf
+  - [百度云盘](https://pan.baidu.com/s/1dz8F4Jgaqp39_faws0sIMA), 提取码: book
+- CSS权威指南
+  - [阿里云盘](https://www.aliyundrive.com/s/Jz9C6BxFgsR), 提取码: 7pt0
+  - [百度云盘](https://pan.baidu.com/s/15a1TNqKQBv9OtlMaTJkmmg), 提取码: book
+- CSS那些事儿
+  - [阿里云盘](https://www.aliyundrive.com/s/t7VzUHQHpDQ), 提取码: 27de
+  - [百度云盘](https://pan.baidu.com/s/1PMkZC2948Cc4DB-4xhoQrA), 提取码: book
+
 ## 其他
 
 - 现代前端技术解析
