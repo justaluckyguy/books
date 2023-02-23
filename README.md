@@ -69,22 +69,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 链接: https://pan.baidu.com/s/1shXEVHLFQPf0g-Wvzm4-Ug 提取码: 8fsr
 
-#### C
-
-- C Primer Plus
-
-- 嗨翻 C 语言 (图灵程序设计丛书)
-
-- C 程序设计语言,epub
-
-- [C 和指针.epub](https://static.xjq.icu/book/C%20%E5%92%8C%E6%8C%87%E9%92%88.epub)
-
-- C Primer Plus,epub
-
-- C 语言从入门到精通第 2 版,epub
-
-- C 入门经典第 7 版,mobi
-
 #### cpp
 
 - C++ Primer Plus
@@ -459,18 +443,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 ### 操作系统
 
 链接: https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ 提取码: e575
-
-#### UNIX
-
-- UNIX 环境高级编程（第三版）
-
-- UNIX 网络编程卷 1：套接字联网 API(第 3 版)
-
-- UNIX 网络编程卷 2：进程间通信,pdf
-
-- UNIX 编程艺术,pdf
-
-- UNIX 操作系统设计,pdf
 
 #### Docker
 

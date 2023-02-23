@@ -1,4 +1,106 @@
 {
+  "C": [
+    {
+      "name": "C入门经典",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1KwNVKz9UeAd0P78jfmlvKw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/fieDUCu8mH8",
+          "code": "hl98"
+        }
+      ],
+      "spec": ["mobi"]
+    },
+    {
+      "name": "C程序设计语言",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1O4XxcGPzIt6SZh_iraFI9w",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/pM3hS7V41S2",
+          "code": "i8n5"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "C语言从入门到精通",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1BKJ6DlO7fNkceRALqO9iYA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/xfU7VjH21tz",
+          "code": "3f9p"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "C和指针",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1PPAQA3hvy6FjUs64RnBWww",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/TbZ8Bnkaci9",
+          "code": "z3z9"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/C%20%E5%92%8C%E6%8C%87%E9%92%88.epub"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "C Primer Plus",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1nAe2fWNgfnZ2nOAH36f2eg",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/PPFdMUwdRzd",
+          "code": "97op"
+        }
+      ],
+      "spec": ["epub", "pdf"]
+    },
+    {
+      "name": "嗨翻C语言",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1L-Bd0uBVhJYZEdLgOaEZdg",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/WVzCuB3ZJur",
+          "code": "95cl"
+        }
+      ],
+      "spec": ["mobi"]
+    }
+  ],
   "正则表达式": [
     {
       "name": "精通正则表达式",
