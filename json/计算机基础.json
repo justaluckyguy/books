@@ -286,6 +286,70 @@
           "code": "book"
         }
       ]
+    },
+    {
+      "name": "操作系统简化版",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/3EVExPSr4f3",
+          "code": "s9n3"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1ATd-8EZUHsvofOm3WouBaw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "操作系统原理",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/LMadBVWkBu4",
+          "code": "60hf"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1oijdlCNGmhzsmYbs3shgIw",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi", "epub", "azw3"]
+    },
+    {
+      "name": "现代操作系统",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/ibk1mExjMQb",
+          "code": "pm43"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1o1evbTl7WAho_0-_64nzuQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf", "epub"]
+    },
+    {
+      "name": "深入理解计算机系统",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/tVkJqXjZRMh",
+          "code": "j97z"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1AJt5yEqBEG7OYPxxNL-z0A",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
     }
   ]
 }

@@ -36,7 +36,7 @@
 1. 提供资源下载方式，例如：网盘，直链下载
 2. 根据分类录入 json 数据，[数据目录](https://github.com/xjq7/books/tree/master/json)
 
-json 数据更新提交至 master 分支后触发 github action 更新主页 README，以及各个子页 README
+json 数据更新提交至 master 分支后会自动触发 github action 更新主页 README，以及各个子页 README
 
 ## 计算机
 
@@ -498,16 +498,6 @@ json 数据更新提交至 master 分支后触发 github action 更新主页 REA
 - 精通 Nginx
 
 - 深入理解 Nginx 模块开发与架构解析,pdf
-
-#### 其他
-
-- 深入理解计算机系统
-
-- 现代操作系统（第 3 版）,epub,pdf
-
-- 操作系统原理第 4 版
-
-- 操作系统简化版
 
 ### 设计模式
 
