@@ -24,4 +24,19 @@
 - Linux就该这么学
   - [阿里云盘](https://www.aliyundrive.com/s/vcymCxcrgHh), 提取码: 3tq5
   - [百度云盘](https://pan.baidu.com/s/1M8eJH5pQpYx3lcRvoqdAtg), 提取码: book
+- Linux程序设计
+  - [阿里云盘](https://www.aliyundrive.com/s/HY37bgstEhU), 提取码: 14dk
+  - [百度云盘](https://pan.baidu.com/s/1FuVFC4yRff2KQB0YZhhB4w), 提取码: book
+- 理解Linux进程
+  - [阿里云盘](https://www.aliyundrive.com/s/MoJptUmH7eA), 提取码: r9q5
+  - [百度云盘](https://pan.baidu.com/s/1AcBsNnZ_f2r_RhyLMyzvmQ), 提取码: book
+- 深入理解linux内核
+  - [阿里云盘](https://www.aliyundrive.com/s/kf3GiZcrfUc), 提取码: 9rg7
+  - [百度云盘](https://pan.baidu.com/s/1yZfAFbEOXhL2ujiezD7bgg), 提取码: book
+- Linux Shell命令行及脚本编程实例详解
+  - [阿里云盘](https://www.aliyundrive.com/s/CH4p4FowS4z), 提取码: a85v
+  - [百度云盘](https://pan.baidu.com/s/1OUuxUC7qjZEEyq4NTAl4rQ), 提取码: book
+- 深入Linux内核架构
+  - [阿里云盘](https://www.aliyundrive.com/s/esNxzaiYA1m), 提取码: 07av
+  - [百度云盘](https://pan.baidu.com/s/1dGhWb1WfdJv1Nc3wUjsS8w), 提取码: book
 

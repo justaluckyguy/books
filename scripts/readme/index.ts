@@ -7,21 +7,33 @@ import path from 'path';
  */
 async function readme() {
   const prefix = 'https://github.com/xjq7/books/tree/master/';
-  const jsons = fs.readdirSync(path.resolve('json'));
+
+  const jsonDir = 'json';
+  const jsons = fs.readdirSync(path.resolve(jsonDir), { encoding: 'utf8' });
+
   const content = jsons.reduce((acc, title) => {
+    let jsonStr = fs.readFileSync(jsonDir + '/' + title, {
+      encoding: 'utf8',
+    });
+    const json = JSON.parse(jsonStr) as Record<string, any>;
+
     title = title.replace('.json', '');
     const link = prefix + title;
     acc += `- [${title}](${link})\n`;
+    Object.keys(json).forEach((category) => {
+      acc += `  - [${category}](${link}#${category})\n`;
+    });
     return acc;
   }, '');
-  let readmeContent = fs.readFileSync('./README.md', {
+  let readmeContent = fs.readFileSync('README.md', {
     encoding: 'utf8',
   });
   readmeContent = readmeContent.replace(
-    /(?<=<!--insert-books-head-->\n)(.|\n)+(?=<!--insert-books-end-->)/g,
+    /(?<=<!--insert-books-category-head-->\n)(.|\n)+(?=<!--insert-books-category-end-->)/gm,
     '\n' + content
   );
-  fs.writeFileSync('./README.md', readmeContent, { encoding: 'utf8' });
+
+  fs.writeFileSync('README.md', readmeContent, { encoding: 'utf8' });
 }
 
 /**
@@ -68,8 +80,8 @@ async function jsonWr() {
 }
 
 async function run() {
-  await readme();
   await jsonWr();
+  await readme();
 }
 
 run();

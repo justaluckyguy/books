@@ -8,13 +8,13 @@
 
 渐进式拆分中, 首页找不到的移到了文件夹中
 
-<!--insert-books-head-->
+<!--insert-books-category-head-->
 
 - [前端](https://github.com/xjq7/books/tree/master/前端)
 - [编程语言](https://github.com/xjq7/books/tree/master/编程语言)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
 - [计算机网络](https://github.com/xjq7/books/tree/master/计算机网络)
-<!--insert-books-end-->
+<!--insert-books-category-end-->
 
 ## 参与贡献
 
