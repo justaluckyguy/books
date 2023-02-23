@@ -101,6 +101,40 @@
       "spec": ["mobi"]
     }
   ],
+  "C#": [
+    {
+      "name": "C#高级编程",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/10bXHrLFFgFzbQneUY9t-kg",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/h4DaKxpHLLy",
+          "code": "4l0p"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "C#图解教程",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1_t9wFrD27mvLbgvcvAVpnw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/Z9ZAwo4Macs",
+          "code": "cj15"
+        }
+      ],
+      "spec": ["pdf"]
+    }
+  ],
   "正则表达式": [
     {
       "name": "精通正则表达式",

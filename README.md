@@ -98,17 +98,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - C++反汇编与逆向分析技术揭秘,pdf
 
-#### _C#_
-
-- C#图解教程
-
-  - 第 4 版,pdf
-  - 第 5 版,pdf,(感谢[yiyi chen](https://github.com/1300602123)提供的资源)
-
-- C#高级编程
-
-- C#高级编程(第 7 版)
-
 #### JavaScript
 
 链接: https://pan.baidu.com/s/1pqxy2rseCBAHvbBgGMrmcQ 提取码: 99rw
