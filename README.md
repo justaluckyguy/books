@@ -503,23 +503,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - 计算的本质：深入剖析程序和计算机,pdf
 
-### 数据库
-
-链接: https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ 提取码: jca6
-
-- SQL 基础教程
-
-  第一版,pdf
-  第二版,pdf
-
-- SQL 学习指南,pdf
-
-- Redis 入门指南,pdf
-
-- Redis 开发与运维,pdf
-
-- Redis 实战,pdf
-
 ### 机器学习
 
 链接: https://pan.baidu.com/s/1gPjtFTvFso7Em2ex52r1DA 提取码: p7nt

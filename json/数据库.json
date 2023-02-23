@@ -1,4 +1,39 @@
 {
+  "SQL": [
+    {
+      "name": "SQL基础教程",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/r3ksu8adc9x",
+          "code": "g15y"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1CBEMPd1G3_ZYAT61ClkcwQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第1版", "第2版"]
+    },
+    {
+      "name": "SQL学习指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/MfGAg9QBsaa",
+          "code": "d1w9"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1Nr_EQvathIuf4cblTdE1_g",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    }
+  ],
   "HBase": [
     {
       "name": "HBase不睡觉书",
@@ -110,6 +145,73 @@
         {
           "name": "百度网盘",
           "link": "https://pan.baidu.com/s/1AEEHXJIX-KTF8qDw168Dpw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    }
+  ],
+  "Redis": [
+    {
+      "name": "Redis开发与运维",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/jpugJF6TSr6",
+          "code": "46za"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1ZdsD6XVxhITPP1iJVcFusg",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "Redis入门指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/sqbCY51hh2J",
+          "code": "a55d"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1UtKFCIBJpBweBhkGVkr4sw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第2版"]
+    },
+    {
+      "name": "Redis设计与实现",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/AwbjDSZN8aN",
+          "code": "u58n"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1Gt7bTl8NkcpeMgpKsB7zCw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "Redis实战",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/DMo1y5JbjPs",
+          "code": "o36f"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1XAHi7E7ACDC9f1pBvqwq1A",
           "code": "book"
         }
       ],

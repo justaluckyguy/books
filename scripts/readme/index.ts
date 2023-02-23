@@ -5,7 +5,7 @@ import path from 'path';
  * 首页数据写入
  *
  */
-async function readme() {
+function readme() {
   const prefix = 'https://github.com/xjq7/books/tree/master/';
 
   const jsonDir = 'json';
@@ -40,7 +40,7 @@ async function readme() {
  * 子首页数据写入
  *
  */
-async function jsonWr() {
+function jsonWr() {
   const jsonDir = 'json';
   const jsons = fs.readdirSync(path.resolve(jsonDir));
 
@@ -97,13 +97,13 @@ async function jsonWr() {
     });
 
     const readmePath = `${dirName}/README.md`;
-    await fs.writeFileSync(readmePath, content, { encoding: 'utf8' });
+    fs.writeFileSync(readmePath, content, { encoding: 'utf8' });
   }
 }
 
-async function run() {
-  await jsonWr();
-  await readme();
+function run() {
+  jsonWr();
+  readme();
 }
 
 run();
