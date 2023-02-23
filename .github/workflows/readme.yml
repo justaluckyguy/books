@@ -9,12 +9,12 @@ on:
     branches: [master]
     paths:
       - 'json/**'
-      - 'script/readme/**'
+      - 'scripts/readme/**'
   pull_request:
     branches: [master]
     paths:
       - 'json/**'
-      - 'script/readme/**'
+      - 'scripts/readme/**'
 
 jobs:
   build:
