@@ -135,6 +135,207 @@
       "spec": ["pdf"]
     }
   ],
+  "Java": [
+    {
+      "name": "Effective Java",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1mLSzff_vcdBU8D6AxKsRMA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/Z9ZAwo4Macs",
+          "code": "cj15"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第二版"]
+    },
+    {
+      "name": "Head First Java",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/11d3yGs86BCMy9PyLJ4P6Bw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/pmUHQtavMgE",
+          "code": "4kc3"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第二版"]
+    },
+    {
+      "name": "Java编程的逻辑",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1PlcO0KInYM7eodcEPBjKNw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/NXvsZ9kDhMn",
+          "code": "st77"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "Java编程思想",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1rsLWzGy4B7kTSXwI8LldFA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/1YuYhHkNBHf",
+          "code": "8b7d"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第四版"]
+    },
+    {
+      "name": "Spring实战",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1HV8kgDf4i3WNx3z-3Tl3nQ",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/UoiFL9CbKwf",
+          "code": "7hd9"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "实战Java高并发程序设计",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/10rKGYQqJsL1yZ883gtIv9w",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/12PCxRBEB2C",
+          "code": "20xw"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "重新定义Spring Cloud实战",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1IGPM7-1ti3E5FSuE7C5xkA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/7HuMixgedfF",
+          "code": "47zp"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "Spring技术内幕：深入解析Spring架构与设计原理",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1gLLw73nnbZTnS1zZN3uqFg",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/X6dEjdcQdSo",
+          "code": "90ko"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第2版"]
+    },
+    {
+      "name": "Java核心技术卷1基础知识",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1zxNFssaJpo1caoPY2PkjNw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/HnrPZvEjzhU",
+          "code": "98oa"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第10版"]
+    },
+    {
+      "name": "Java核心技术卷2高级特性",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1NwHYphbRlw_Ny_t_EB5MKA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/MhYoaVQM98i",
+          "code": "4g3l"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第10版"]
+    },
+    {
+      "name": "深入理解Java虚拟机：JVM高级特性与最佳实践",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1F3O80azLUe2LLynUUcgksw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/t3wL3MzWCqD",
+          "code": "32rb"
+        }
+      ],
+      "spec": ["epub"],
+      "version": ["第2版"]
+    },
+    {
+      "name": "自己动手写Java虚拟机",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1ea09C1aCuUmaFRq6t2LMyg",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/iFykccMcpSu",
+          "code": "wo64"
+        }
+      ],
+      "spec": ["epub"]
+    }
+  ],
   "正则表达式": [
     {
       "name": "精通正则表达式",

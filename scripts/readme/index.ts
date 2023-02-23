@@ -61,23 +61,38 @@ async function jsonWr() {
 
     Object.entries(json).forEach(([title, value]) => {
       content += `## ${title}\n\n`;
-      value.forEach((o: { name: string; source: any[]; spec: string[] }) => {
-        const { name, source, spec } = o;
-        content += `- ${name}\n`;
+      value.forEach(
+        (o: {
+          name: string;
+          source: any[];
+          spec: string[];
+          version: string[];
+        }) => {
+          const { name, source, spec = [], version = [] } = o;
+          content += `- ${name}\n`;
 
-        if (spec && spec.length) {
-          content += '\n';
-          content += `  包含 ${spec.join(', ')} 格式`;
-          content += '\n\n';
+          if (spec.length) {
+            content += '\n';
+            content += `  包含 ${spec.join(', ')} 格式`;
+          }
+
+          if (version.length) {
+            content += spec.length ? ', ' : '  ';
+            content += `包含的版本: ${version.join(', ')}`;
+          }
+
+          if (spec.length || version.length) {
+            content += '\n\n';
+          }
+
+          source.forEach((o) => {
+            const { name, link, code } = o;
+            content += `  - [${name}](${link})`;
+            if (code) content += `, 提取码: ${code}`;
+            content += '\n';
+          });
         }
-
-        source.forEach((o) => {
-          const { name, link, code } = o;
-          content += `  - [${name}](${link})`;
-          if (code) content += `, 提取码: ${code}`;
-          content += '\n';
-        });
-      });
+      );
       content += '\n';
     });
 
