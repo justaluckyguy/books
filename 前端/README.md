@@ -42,7 +42,10 @@
 - CSS3实战
   - [阿里云盘](https://www.aliyundrive.com/s/7yQ66ji6vXv), 提取码: 90ln
   - [百度云盘](https://pan.baidu.com/s/1ZJFfGa9ocfM3c8V_snVsUQ), 提取码: book
-- CSS世界, 包含 pdf, epub, mobi 格式
+- CSS世界
+
+  包含 pdf, epub, mobi 格式
+
   - [阿里云盘](https://www.aliyundrive.com/s/2LMxQijoYet), 提取码: 60vf
   - [百度云盘](https://pan.baidu.com/s/1dz8F4Jgaqp39_faws0sIMA), 提取码: book
 - CSS权威指南
