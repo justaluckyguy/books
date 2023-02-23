@@ -59,20 +59,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - 穿越计算机的迷雾,链接: https://pan.baidu.com/s/1EsDJiR1JOpFSy4s_7aeM6g 提取码: qxg5
 
-### 网络安全
-
-链接: https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg 提取码: np54
-
-- 密码编码学与网络安全 原理与实践 第 7 版-威廉·斯托林斯
-
-- 深入浅出密码学 常用加密技术原理与应用,pdf
-
-- 白帽子讲 Web 安全,epub,mobi
-
-- 黑客攻防技术宝典 web 实战篇(第 2 版),epub
-
-- [黑客攻防技术宝典-Web 实战篇(第 2 版).mobi](<https://static.xjq.icu/book/黑客攻防技术宝典-Web实战篇(第2版).mobi>)
-
 ### 编程语言
 
 链接: https://pan.baidu.com/s/1shXEVHLFQPf0g-Wvzm4-Ug 提取码: 8fsr

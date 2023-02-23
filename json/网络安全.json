@@ -1,0 +1,76 @@
+{
+  "Web安全": [
+    {
+      "name": "黑客攻防技术宝典web实战篇",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1dc-7zUwkfdVWHuTzzI3luA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/mVncY6UqrN2",
+          "code": "y7c8"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/黑客攻防技术宝典-Web实战篇(第2版).mobi"
+        }
+      ],
+      "spec": ["epub", "mobi"],
+      "version": ["第2版"]
+    },
+    {
+      "name": "白帽子讲Web安全",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1y8_7ITaXq9tz_UxwF8nLfA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/4x3N7bMRo21",
+          "code": "dq18"
+        }
+      ],
+      "spec": ["epub", "mobi"]
+    }
+  ],
+  "密码学": [
+    {
+      "name": "深入浅出密码学 常用加密技术原理与应用",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1s7RmHNwyRIhiMgQqiblhgw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/3c468BxvmPL",
+          "code": "0jj9"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "密码编码学与网络安全 原理与实践",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1E9Cd7w4pKOgU2vc3U8ZoYQ",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/5KDnfrKYdeD",
+          "code": "l94c"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第7版"]
+    }
+  ]
+}
