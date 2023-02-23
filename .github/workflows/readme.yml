@@ -8,11 +8,13 @@ on:
   push:
     branches: [master]
     paths:
-      - 'scripts/readme/**'
+      - 'json/**'
+      - 'script/readme/**'
   pull_request:
     branches: [master]
     paths:
-      - 'scripts/readme/**'
+      - 'json/**'
+      - 'script/readme/**'
 
 jobs:
   build:

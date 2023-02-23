@@ -7,7 +7,7 @@ import path from 'path';
  */
 async function readme() {
   const prefix = 'https://github.com/xjq7/books/tree/master/';
-  const jsons = fs.readdirSync(path.resolve('./scripts/readme/json'));
+  const jsons = fs.readdirSync(path.resolve('json'));
   const content = jsons.reduce((acc, title) => {
     title = title.replace('.json', '');
     const link = prefix + title;
@@ -29,7 +29,7 @@ async function readme() {
  *
  */
 async function jsonWr() {
-  const jsonDir = './scripts/readme/json';
+  const jsonDir = 'json';
   const jsons = fs.readdirSync(path.resolve(jsonDir));
 
   for (const fileName of jsons) {

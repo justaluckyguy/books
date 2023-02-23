@@ -16,6 +16,13 @@
 - [计算机网络](https://github.com/xjq7/books/tree/master/计算机网络)
 <!--insert-books-end-->
 
+## 参与贡献
+
+1. 提供资源下载方式，例如：网盘，直链下载
+2. 根据分类录入 json 数据，[数据目录](https://github.com/xjq7/books/tree/master/json)
+
+json 数据更新提交至 master 分支后触发 github action 更新主页 README，以及各个子页 README
+
 ## 计算机
 
 - [硅谷之火(第 3 版)](<https://static.xjq.icu/book/硅谷之火(第3版).mobi>)

@@ -1,0 +1,65 @@
+{
+  "正则表达式": [
+    {
+      "name": "精通正则表达式",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/rkVFGy6nSv5",
+          "code": "57zx"
+        }
+      ]
+    }
+  ],
+  "Nodejs": [
+    {
+      "name": "Node.js进阶之路",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1MlgpjFA_drYFHEe2vfrxjg",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/Pe2XppW6vDi",
+          "code": "a6h5"
+        }
+      ]
+    }
+  ],
+  "R": [
+    {
+      "name": "R 语言编程艺术",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1UKNw7JJUXWMUBZ3kZPYybw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/EgywZXta1WE",
+          "code": "oo25"
+        }
+      ]
+    }
+  ],
+  "汇编语言": [
+    {
+      "name": "汇编语言",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1jW1EGAA7zQsaoYmFwGbGUQ",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/PM8AQeX56N1",
+          "code": "dz28"
+        }
+      ]
+    }
+  ]
+}
