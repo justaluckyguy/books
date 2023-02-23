@@ -11,9 +11,21 @@
 <!--insert-books-category-head-->
 
 - [前端](https://github.com/xjq7/books/tree/master/前端)
+  - [图形学](https://github.com/xjq7/books/tree/master/前端#图形学)
+  - [Nodejs](https://github.com/xjq7/books/tree/master/前端#Nodejs)
+  - [框架](https://github.com/xjq7/books/tree/master/前端#框架)
+  - [构建工具](https://github.com/xjq7/books/tree/master/前端#构建工具)
+  - [其他](https://github.com/xjq7/books/tree/master/前端#其他)
 - [编程语言](https://github.com/xjq7/books/tree/master/编程语言)
+  - [正则表达式](https://github.com/xjq7/books/tree/master/编程语言#正则表达式)
+  - [Nodejs](https://github.com/xjq7/books/tree/master/编程语言#Nodejs)
+  - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
+  - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
+  - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
+  - [操作系统](https://github.com/xjq7/books/tree/master/计算机基础#操作系统)
 - [计算机网络](https://github.com/xjq7/books/tree/master/计算机网络)
+  - [协议](https://github.com/xjq7/books/tree/master/计算机网络#协议)
 <!--insert-books-category-end-->
 
 ## 参与贡献
