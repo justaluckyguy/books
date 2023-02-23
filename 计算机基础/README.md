@@ -39,4 +39,25 @@
 - 深入Linux内核架构
   - [阿里云盘](https://www.aliyundrive.com/s/esNxzaiYA1m), 提取码: 07av
   - [百度云盘](https://pan.baidu.com/s/1dGhWb1WfdJv1Nc3wUjsS8w), 提取码: book
+- Linux运维之道
+  - [阿里云盘](https://www.aliyundrive.com/s/gycsU8kNERH), 提取码: 4x5g
+  - [百度云盘](https://pan.baidu.com/s/1Of9o5FAN9ZbrJapx3skAvw), 提取码: book
+- Linux命令详解词典
+  - [阿里云盘](https://www.aliyundrive.com/s/LJcApuNMPGx), 提取码: 93el
+  - [百度云盘](https://pan.baidu.com/s/1grP5EMIQPuHeI6d1e_1Y-A), 提取码: book
+- 循序渐进Linux
+  - [阿里云盘](https://www.aliyundrive.com/s/kPYrVwiKs5Z), 提取码: 8sj7
+  - [百度云盘](https://pan.baidu.com/s/1_fUPOA9oe8qNPvf1u4YZNA), 提取码: book
+- 鸟哥的LINUX私房菜-基础学习篇
+  - [阿里云盘](https://www.aliyundrive.com/s/KE2E88MXMK5), 提取码: 8pw7
+  - [百度云盘](https://pan.baidu.com/s/1awE13kCRhJcNDp8OEdK89Q), 提取码: book
+- Linux内核设计与实现
+  - [阿里云盘](https://www.aliyundrive.com/s/8cB6LyaYPgQ), 提取码: 0cz0
+  - [百度云盘](https://pan.baidu.com/s/1k4CZfaWnJDfYnDj1M9BFRA), 提取码: book
+- Linux Shell脚本攻略
+  - [阿里云盘](https://www.aliyundrive.com/s/5eiAVS4GbUX), 提取码: 8no1
+  - [百度云盘](https://pan.baidu.com/s/15u-UGmq2Rr4b-j15p9Tdtw), 提取码: book
+- linux shell 编程从初学到精通
+  - [阿里云盘](https://www.aliyundrive.com/s/kKkQbNq8X1e), 提取码: n42f
+  - [百度云盘](https://pan.baidu.com/s/1REUjfYcXqfWH-d1iYhVlXQ), 提取码: book
 
