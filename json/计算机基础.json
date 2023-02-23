@@ -181,6 +181,111 @@
           "code": "book"
         }
       ]
+    },
+    {
+      "name": "Linux运维之道",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/gycsU8kNERH",
+          "code": "4x5g"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1Of9o5FAN9ZbrJapx3skAvw",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "Linux命令详解词典",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/LJcApuNMPGx",
+          "code": "93el"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1grP5EMIQPuHeI6d1e_1Y-A",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "循序渐进Linux",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/kPYrVwiKs5Z",
+          "code": "8sj7"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1_fUPOA9oe8qNPvf1u4YZNA",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "鸟哥的LINUX私房菜-基础学习篇",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/KE2E88MXMK5",
+          "code": "8pw7"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1awE13kCRhJcNDp8OEdK89Q",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "Linux内核设计与实现",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/8cB6LyaYPgQ",
+          "code": "0cz0"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1k4CZfaWnJDfYnDj1M9BFRA",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "Linux Shell脚本攻略",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/5eiAVS4GbUX",
+          "code": "8no1"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/15u-UGmq2Rr4b-j15p9Tdtw",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "linux shell 编程从初学到精通",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/kKkQbNq8X1e",
+          "code": "n42f"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1REUjfYcXqfWH-d1iYhVlXQ",
+          "code": "book"
+        }
+      ]
     }
   ]
 }

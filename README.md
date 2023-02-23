@@ -446,22 +446,6 @@ json 数据更新提交至 master 分支后触发 github action 更新主页 REA
 
 链接: https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ 提取码: e575
 
-#### Linux
-
-- 循序渐进 Linux-第 2 版-服务器搭建系统
-
-- Linux 内核设计与实现
-
-- Linux Shell 脚本攻略-第 2 版,pdf
-
-- 鸟哥的 LINUX 私房菜-基础学习篇(第三版)
-
-- Linux 运维之道
-
-- Linux 命令详解词典
-
-- Linux shell 编程从初学到精通
-
 #### UNIX
 
 - UNIX 环境高级编程（第三版）
