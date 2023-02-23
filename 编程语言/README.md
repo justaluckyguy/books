@@ -53,6 +53,81 @@
   - [百度云盘](https://pan.baidu.com/s/1_t9wFrD27mvLbgvcvAVpnw), 提取码: book
   - [阿里云盘](https://www.aliyundrive.com/s/Z9ZAwo4Macs), 提取码: cj15
 
+## Java
+
+- Effective Java
+
+  包含 pdf 格式, 包含的版本: 第二版
+
+  - [百度云盘](https://pan.baidu.com/s/1mLSzff_vcdBU8D6AxKsRMA), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/Z9ZAwo4Macs), 提取码: cj15
+- Head First Java
+
+  包含 pdf 格式, 包含的版本: 第二版
+
+  - [百度云盘](https://pan.baidu.com/s/11d3yGs86BCMy9PyLJ4P6Bw), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/pmUHQtavMgE), 提取码: 4kc3
+- Java编程的逻辑
+
+  包含 pdf 格式
+
+  - [百度云盘](https://pan.baidu.com/s/1PlcO0KInYM7eodcEPBjKNw), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/NXvsZ9kDhMn), 提取码: st77
+- Java编程思想
+
+  包含 pdf 格式, 包含的版本: 第四版
+
+  - [百度云盘](https://pan.baidu.com/s/1rsLWzGy4B7kTSXwI8LldFA), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/1YuYhHkNBHf), 提取码: 8b7d
+- Spring实战
+
+  包含 epub 格式
+
+  - [百度云盘](https://pan.baidu.com/s/1HV8kgDf4i3WNx3z-3Tl3nQ), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/UoiFL9CbKwf), 提取码: 7hd9
+- 实战Java高并发程序设计
+
+  包含 epub 格式
+
+  - [百度云盘](https://pan.baidu.com/s/10rKGYQqJsL1yZ883gtIv9w), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/12PCxRBEB2C), 提取码: 20xw
+- 重新定义Spring Cloud实战
+
+  包含 pdf 格式
+
+  - [百度云盘](https://pan.baidu.com/s/1IGPM7-1ti3E5FSuE7C5xkA), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/7HuMixgedfF), 提取码: 47zp
+- Spring技术内幕：深入解析Spring架构与设计原理
+
+  包含 pdf 格式, 包含的版本: 第2版
+
+  - [百度云盘](https://pan.baidu.com/s/1gLLw73nnbZTnS1zZN3uqFg), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/X6dEjdcQdSo), 提取码: 90ko
+- Java核心技术卷1基础知识
+
+  包含 pdf 格式, 包含的版本: 第10版
+
+  - [百度云盘](https://pan.baidu.com/s/1zxNFssaJpo1caoPY2PkjNw), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/HnrPZvEjzhU), 提取码: 98oa
+- Java核心技术卷2高级特性
+
+  包含 pdf 格式, 包含的版本: 第10版
+
+  - [百度云盘](https://pan.baidu.com/s/1NwHYphbRlw_Ny_t_EB5MKA), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/MhYoaVQM98i), 提取码: 4g3l
+- 深入理解Java虚拟机：JVM高级特性与最佳实践
+
+  包含 epub 格式, 包含的版本: 第2版
+
+  - [百度云盘](https://pan.baidu.com/s/1F3O80azLUe2LLynUUcgksw), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/t3wL3MzWCqD), 提取码: 32rb
+- 自己动手写Java虚拟机
+
+  包含 epub 格式
+
+  - [百度云盘](https://pan.baidu.com/s/1ea09C1aCuUmaFRq6t2LMyg), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/iFykccMcpSu), 提取码: wo64
+
 ## 正则表达式
 
 - 精通正则表达式
