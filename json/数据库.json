@@ -1,0 +1,119 @@
+{
+  "HBase": [
+    {
+      "name": "HBase不睡觉书",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/MFV8fLmtE3A",
+          "code": "1lr2"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1446Y9tN7JgLOx4dop67E5Q",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "HBase权威指南",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/pgqgtQyHUWh",
+          "code": "45qc"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1JCzOw8qLxmsqXn-YNUSA-g",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf", "epub"]
+    },
+    {
+      "name": "HBase实战",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/bg92GUYkMvp",
+          "code": "m88p"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1s5xyaAS9WoeC-Igr0QXkLg",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    }
+  ],
+  "MySQL": [
+    {
+      "name": "MySQL必知必会",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/zu1FtsGWSkw",
+          "code": "v93w"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/139VNyfbDFnfRuPo6CHl16Q",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "MySQL技术内幕：SQL编程",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/DZRr7KC1xBp",
+          "code": "b6j"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1s5xyaAS9WoeC-Igr0QXkLg",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "高性能MySQL",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/K7mfrRxaJa3",
+          "code": "r2t1"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1CRJAqVXY4J7Ic1ZQ3oCXqA",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"],
+      "version": ["第3版"]
+    },
+    {
+      "name": "深入理解MySQL核心技术",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/aJDLVh8jfHM",
+          "code": "96ku"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/s/1AEEHXJIX-KTF8qDw168Dpw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    }
+  ]
+}

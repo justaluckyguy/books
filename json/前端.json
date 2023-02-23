@@ -213,8 +213,28 @@
           "name": "阿里云盘",
           "link": "https://www.aliyundrive.com/s/6EcLcDvGqrP",
           "code": "64ku"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/现代前端技术解析.mobi"
         }
       ]
+    },
+    {
+      "name": "现代前端技术解析2019",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/cqyL2EjNkQE",
+          "code": "16ox"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/18n2-h_goCQtsxIlh46NcQQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
     },
     {
       "name": "前端面试江湖",
@@ -223,6 +243,10 @@
           "name": "阿里云盘",
           "link": "https://www.aliyundrive.com/s/t6bP8Xi5t1w",
           "code": "t4t3"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/前端面试江湖.mobi"
         }
       ]
     },

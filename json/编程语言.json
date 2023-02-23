@@ -379,6 +379,22 @@
         }
       ],
       "spec": ["pdf"]
+    },
+    {
+      "name": "Node.js项目实践：构建可扩展的Web应用",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1EqTCJD-Fj7KPFdwiIwmzJA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/7dN1mRBmQnu",
+          "code": "61nc"
+        }
+      ],
+      "spec": ["pdf"]
     }
   ],
   "R": [

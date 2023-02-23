@@ -458,27 +458,15 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - 深入浅出 React 和 Redux-程墨,pdf
 
-- 现代前端技术解析 2019
-
-- [现代前端技术解析.mobi](https://static.xjq.icu/book/现代前端技术解析.mobi)
-
 - 渐进增强的 Web 设计
 
 - Git 权威指南,pdf,epub
 
-- 权威指南 Vue.js2
-
 - 深入浅出 Webpack
-
-- Web 前端自动化构建：Gulp、Bower 和 Yeoman 开发指南
 
 - 构建高性能 WEB 站点
 
 - Web 前端黑客技术揭秘
-
-- [前端面试江湖.mobi](https://static.xjq.icu/book/前端面试江湖.mobi)
-
-- 深入 react 技术栈, mobi
 
 - 精通正则表达式-第三版-美-佛瑞德,pdf
 
@@ -493,8 +481,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 #### 可视化
 
 - 精通 D3.js 交互式数据可视化高级编程,pdf
-
-- Three.js 开发指南-第 2 版,pdf
 
 #### 安全
 
@@ -518,24 +504,10 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 链接: https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ 提取码: jca6
 
-- 深入理解 MySQL 核心技术（中文）,pdf
-
-- MySQL 技术内幕：SQL 编程-姜承尧
-
-- MySQL 必知必会
-
 - SQL 基础教程
 
   第一版,pdf
   第二版,pdf
-
-- HBase 权威指南,epub,pdf
-
-- HBase 不睡觉书
-
-- 高性能 MySQL(第 3 版)
-
-- HBase 实战,epub
 
 - SQL 学习指南,pdf
 
