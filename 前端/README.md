@@ -59,8 +59,16 @@
 
 - 现代前端技术解析
   - [阿里云盘](https://www.aliyundrive.com/s/6EcLcDvGqrP), 提取码: 64ku
+  - [直链](https://static.xjq.icu/book/现代前端技术解析.mobi)
+- 现代前端技术解析2019
+
+  包含 pdf 格式
+
+  - [阿里云盘](https://www.aliyundrive.com/s/cqyL2EjNkQE), 提取码: 16ox
+  - [百度云盘](https://pan.baidu.com/s/18n2-h_goCQtsxIlh46NcQQ), 提取码: book
 - 前端面试江湖
   - [阿里云盘](https://www.aliyundrive.com/s/t6bP8Xi5t1w), 提取码: t4t3
+  - [直链](https://static.xjq.icu/book/前端面试江湖.mobi)
 - 构建高性能WEB站点
   - [阿里云盘](https://www.aliyundrive.com/s/VQr43dRHJxS), 提取码: 44iv
 - 渐进增强的Web设计

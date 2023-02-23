@@ -144,6 +144,12 @@
 
   - [百度云盘](https://pan.baidu.com/s/14r6wh1XtmGIbex-TXiRKxg), 提取码: book
   - [阿里云盘](https://www.aliyundrive.com/s/H6RZkHtYUMq), 提取码: ry85
+- Node.js项目实践：构建可扩展的Web应用
+
+  包含 pdf 格式
+
+  - [百度云盘](https://pan.baidu.com/s/1EqTCJD-Fj7KPFdwiIwmzJA), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/7dN1mRBmQnu), 提取码: 61nc
 
 ## R
 
