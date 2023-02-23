@@ -60,4 +60,16 @@
 - linux shell 编程从初学到精通
   - [阿里云盘](https://www.aliyundrive.com/s/kKkQbNq8X1e), 提取码: n42f
   - [百度云盘](https://pan.baidu.com/s/1REUjfYcXqfWH-d1iYhVlXQ), 提取码: book
+- 操作系统简化版, 包含 pdf 格式
+  - [阿里云盘](https://www.aliyundrive.com/s/3EVExPSr4f3), 提取码: s9n3
+  - [百度云盘](https://pan.baidu.com/s/1ATd-8EZUHsvofOm3WouBaw), 提取码: book
+- 操作系统原理, 包含 mobi, epub, azw3 格式
+  - [阿里云盘](https://www.aliyundrive.com/s/LMadBVWkBu4), 提取码: 60hf
+  - [百度云盘](https://pan.baidu.com/s/1oijdlCNGmhzsmYbs3shgIw), 提取码: book
+- 现代操作系统, 包含 pdf, epub 格式
+  - [阿里云盘](https://www.aliyundrive.com/s/ibk1mExjMQb), 提取码: pm43
+  - [百度云盘](https://pan.baidu.com/s/1o1evbTl7WAho_0-_64nzuQ), 提取码: book
+- 深入理解计算机系统, 包含 pdf 格式
+  - [阿里云盘](https://www.aliyundrive.com/s/tVkJqXjZRMh), 提取码: j97z
+  - [百度云盘](https://pan.baidu.com/s/1AJt5yEqBEG7OYPxxNL-z0A), 提取码: book
 

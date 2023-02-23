@@ -8,6 +8,9 @@
 - Node.js进阶之路
   - [百度云盘](https://pan.baidu.com/s/1MlgpjFA_drYFHEe2vfrxjg), 提取码: book
   - [阿里云盘](https://www.aliyundrive.com/s/Pe2XppW6vDi), 提取码: a6h5
+- Node.js项目实践, 包含 pdf 格式
+  - [百度云盘](https://pan.baidu.com/s/14r6wh1XtmGIbex-TXiRKxg), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/H6RZkHtYUMq), 提取码: ry85
 
 ## R
 

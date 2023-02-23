@@ -6,11 +6,6 @@
 - Three.js开发指南
   - [阿里云盘](https://www.aliyundrive.com/s/QfGxLo8cM9L), 提取码: 5k5b
 
-## Nodejs
-
-- Node.js项目实践
-  - [百度云盘](https://pan.baidu.com/s/1dMBSzLfle0j5Xgx2OMzUYg ), 提取码: book
-
 ## 框架
 
 - 深入react技术栈
