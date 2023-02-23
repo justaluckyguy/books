@@ -1,3 +1,18 @@
+## SQL
+
+- SQL基础教程
+
+  包含 pdf 格式, 包含的版本: 第1版, 第2版
+
+  - [阿里云盘](https://www.aliyundrive.com/s/r3ksu8adc9x), 提取码: g15y
+  - [百度网盘](https://pan.baidu.com/s/1CBEMPd1G3_ZYAT61ClkcwQ), 提取码: book
+- SQL学习指南
+
+  包含 pdf 格式
+
+  - [阿里云盘](https://www.aliyundrive.com/s/MfGAg9QBsaa), 提取码: d1w9
+  - [百度网盘](https://pan.baidu.com/s/1Nr_EQvathIuf4cblTdE1_g), 提取码: book
+
 ## HBase
 
 - HBase不睡觉书
@@ -45,4 +60,31 @@
 
   - [阿里云盘](https://www.aliyundrive.com/s/aJDLVh8jfHM), 提取码: 96ku
   - [百度网盘](https://pan.baidu.com/s/1AEEHXJIX-KTF8qDw168Dpw), 提取码: book
+
+## Redis
+
+- Redis开发与运维
+
+  包含 pdf 格式
+
+  - [阿里云盘](https://www.aliyundrive.com/s/jpugJF6TSr6), 提取码: 46za
+  - [百度网盘](https://pan.baidu.com/s/1ZdsD6XVxhITPP1iJVcFusg), 提取码: book
+- Redis入门指南
+
+  包含 pdf 格式, 包含的版本: 第2版
+
+  - [阿里云盘](https://www.aliyundrive.com/s/sqbCY51hh2J), 提取码: a55d
+  - [百度网盘](https://pan.baidu.com/s/1UtKFCIBJpBweBhkGVkr4sw), 提取码: book
+- Redis设计与实现
+
+  包含 pdf 格式
+
+  - [阿里云盘](https://www.aliyundrive.com/s/AwbjDSZN8aN), 提取码: u58n
+  - [百度网盘](https://pan.baidu.com/s/1Gt7bTl8NkcpeMgpKsB7zCw), 提取码: book
+- Redis实战
+
+  包含 pdf 格式
+
+  - [阿里云盘](https://www.aliyundrive.com/s/DMo1y5JbjPs), 提取码: o36f
+  - [百度网盘](https://pan.baidu.com/s/1XAHi7E7ACDC9f1pBvqwq1A), 提取码: book
 
