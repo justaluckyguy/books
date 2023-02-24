@@ -47,3 +47,20 @@
   - [百度云盘](https://pan.baidu.com/s/1jJzEKEIPgNbTGYz1YSyWAA), 提取码: book
 ***
 
+## 其他
+
+- 软件开发本质论：追求简约、体现价值、逐步构建
+
+  包含 epub, pdf 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/KJCiuNx8S8N), 提取码: 8j0y
+  - [百度云盘](https://pan.baidu.com/s/1zzzXUPx2jUuXcXT_ChGJGw), 提取码: book
+***
+- 简约之美-软件设计之道
+
+  包含 epub 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/3PnXMjsqATh), 提取码: e3s4
+  - [百度云盘](https://pan.baidu.com/s/1Qfntp87yO0dzayFHnCglqQ), 提取码: book
+***
+

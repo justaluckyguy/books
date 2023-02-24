@@ -39,13 +39,11 @@
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
   - [操作系统](https://github.com/xjq7/books/tree/master/计算机基础#操作系统)
-- [计算机网络](https://github.com/xjq7/books/tree/master/计算机网络)
-  - [基础](https://github.com/xjq7/books/tree/master/计算机网络#基础)
-  - [协议](https://github.com/xjq7/books/tree/master/计算机网络#协议)
-  - [网络编程](https://github.com/xjq7/books/tree/master/计算机网络#网络编程)
+  - [计算机网络](https://github.com/xjq7/books/tree/master/计算机基础#计算机网络)
 - [软件工程](https://github.com/xjq7/books/tree/master/软件工程)
   - [敏捷开发](https://github.com/xjq7/books/tree/master/软件工程#敏捷开发)
   - [软件测试](https://github.com/xjq7/books/tree/master/软件工程#软件测试)
+  - [其他](https://github.com/xjq7/books/tree/master/软件工程#其他)
 
 <!--insert-books-category-end-->
 
