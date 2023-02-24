@@ -31,7 +31,7 @@
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
   - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
-  - [Web安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
   - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
@@ -266,8 +266,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - 编写高质量代码之 C#、C- 陆敏技-李健,mobi
 
-- 高效程序员的 45 个习惯：敏捷开发修炼之道,epub
-
 - 代码阅读方法与实践
 
 ### 程序员
@@ -431,20 +429,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 - 精通 Nginx
 
 - 深入理解 Nginx 模块开发与架构解析,pdf
-
-### 设计模式
-
-- 图解设计模式,链接: https://pan.baidu.com/s/14FmZ8aT1T7-eH165l1nqBg 提取码: nqpv
-
-- HeadFirst 设计模式,链接: https://pan.baidu.com/s/13SwIrWi48wkwD8cfjxrJ-g 提取码: d1jb
-
-- 精通 Python 设计模式,链接: https://pan.baidu.com/s/1LHsjqAd1m_IXA2_GFZoC-A 提取码: sxmx
-
-- JavaScript 设计模式,链接: https://pan.baidu.com/s/1tzswZxD3wF3CUsIOF3DawA 提取码: jac5
-
-- 大话设计模式,pdf,链接: https://pan.baidu.com/s/1vK8huqWE2xuAabb00tA4Jg 提取码: 42nr
-
-- 设计模式之禅,pdf,链接: https://pan.baidu.com/s/1cSWU7NT8X7IbaiBle1kfbw 提取码: yi91
 
 ### 前端
 

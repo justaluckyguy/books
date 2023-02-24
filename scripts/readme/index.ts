@@ -62,28 +62,38 @@ function jsonWr() {
     Object.entries(json).forEach(([title, value]) => {
       content += `## ${title}\n\n`;
       value.forEach(
-        (o: {
-          name: string;
-          source: any[];
-          spec: string[];
-          version: string[];
-        }) => {
-          const { name, source, spec = [], version = [] } = o;
+        (
+          o: {
+            name: string;
+            source: any[];
+            spec: string[];
+            version: string[];
+            author: string[];
+          },
+          idx: number
+        ) => {
+          const { name, source, spec = [], version = [], author = [] } = o;
           content += `- ${name}\n`;
 
+          let desc = '';
+          if (author.length) {
+            desc += `  作者: ${author.join(', ')}  \n`;
+          }
+
           if (spec.length) {
-            content += '\n';
-            content += `  包含 ${spec.join(', ')} 格式`;
+            desc += `  包含 ${spec.join(', ')} 格式  \n`;
           }
 
           if (version.length) {
-            content += spec.length ? ', ' : '  ';
-            content += `包含的版本: ${version.join(', ')}`;
+            desc += `  包含的版本: ${version.join(', ')}  \n`;
           }
 
-          if (spec.length || version.length) {
-            content += '\n\n';
+          if (desc) {
+            content += '\n';
+            content += desc;
           }
+
+          content += '\n';
 
           source.forEach((o) => {
             const { name, link, code } = o;
@@ -91,6 +101,8 @@ function jsonWr() {
             if (code) content += `, 提取码: ${code}`;
             content += '\n';
           });
+
+          content += '***\n';
         }
       );
       content += '\n';

@@ -1,0 +1,100 @@
+{
+  "设计模式": [
+    {
+      "name": "JavaScript设计模式",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/T5oyzzrxGJS",
+          "code": "6f5v"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1INsSemay_e3IJkSMzlQVbw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "HeadFirst设计模式",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/YovWrScCpr2",
+          "code": "er48"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1IjQhWsk6fWF6PBSq3MNw3A",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "大话设计模式",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/9WrrwNVLSzW",
+          "code": "ho58"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1bAw9G-q2ogcvSbZzATKFcQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "精通Python设计模式",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/F55BAv4kg6F",
+          "code": "5kk0"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1TFnmsFDN9tg7A7CskWvDwg",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "设计模式之禅",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/tCFtY77nJXN",
+          "code": "ed43"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1FPynwW7G3WgVNwC76ozepg",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "图解设计模式",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/ZbuHwi2QCWS",
+          "code": "e3x5"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1MDtXkPBaK5xqlILy2aphiw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    }
+  ]
+}
