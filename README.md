@@ -34,7 +34,7 @@
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
   - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
-  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [Web安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
   - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
@@ -45,6 +45,7 @@
   - [网络编程](https://github.com/xjq7/books/tree/master/计算机网络#网络编程)
 - [软件工程](https://github.com/xjq7/books/tree/master/软件工程)
   - [敏捷开发](https://github.com/xjq7/books/tree/master/软件工程#敏捷开发)
+  - [软件测试](https://github.com/xjq7/books/tree/master/软件工程#软件测试)
 
 <!--insert-books-category-end-->
 

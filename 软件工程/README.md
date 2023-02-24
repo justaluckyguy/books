@@ -23,3 +23,27 @@
   - [百度云盘](https://pan.baidu.com/s/17fLsnpENkm8Ginu6mh5dhA), 提取码: book
 ***
 
+## 软件测试
+
+- 软件测试实战(微软技术专家经验总结)
+
+  包含 epub 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/BArDtNcV3dJ), 提取码: 59tv
+  - [百度云盘](https://pan.baidu.com/s/1CUfp4Uzs7QGzyZfhjQr9yw), 提取码: book
+***
+- 测试架构师修炼之道：从测试工程师到测试架构师
+
+  包含 pdf, epub 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/CpzsGWXgBjN), 提取码: ov53
+  - [百度云盘](https://pan.baidu.com/s/12EtjCHOAa875x_M5sWXMUw), 提取码: book
+***
+- Google软件测试之道
+
+  包含 epub 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/QEi9UHLTqfF), 提取码: rh91
+  - [百度云盘](https://pan.baidu.com/s/1jJzEKEIPgNbTGYz1YSyWAA), 提取码: book
+***
+
