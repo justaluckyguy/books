@@ -44,7 +44,7 @@ jobs:
           git config --local user.email "lebnizjoan@gmail.com"
           git config --local user.name "xjq7.robot"
           git add .
-          git commit -a -m "chore: update README"
+          git commit -a -m "chore(robot): update README"
 
       - name: Push changes
         uses: ad-m/github-push-action@master

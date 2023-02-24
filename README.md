@@ -33,7 +33,7 @@
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
   - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
-  - [Web安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
   - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
@@ -215,16 +215,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 - 简约之美-软件设计之道
 
 - 软件开发本质论：追求简约、体现价值、逐步构建,epub,pdf
-
-### 软件测试
-
-链接: https://pan.baidu.com/s/1_nxHJiCvwk755p49-fPIzw 提取码: f63q
-
-- 软件测试实战(微软技术专家经验总结),epub
-
-- 测试架构师修炼之道：从测试工程师到测试架构师,epub,pdf
-
-- Google 软件测试之道,epub
 
 ### 编程
 
