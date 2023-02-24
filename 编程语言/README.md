@@ -155,6 +155,61 @@
   - [阿里云盘](https://www.aliyundrive.com/s/iFykccMcpSu), 提取码: wo64
 ***
 
+## Go
+
+- Go源码剖析
+
+  包含 epub 格式  
+
+  - [百度云盘](https://pan.baidu.com/s/11hLpfy4uoqxMUhIx7Ttvaw), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/35zZ7RmReuK), 提取码: 65kg
+***
+- Go程序设计语言
+
+  包含 pdf 格式  
+
+  - [百度云盘](https://pan.baidu.com/s/1tsDMLvwYE_4fKWc9xxYwLg), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/6TCKeRjQkL1), 提取码: rp38
+***
+- Go并发编程实战
+
+  包含 pdf 格式  
+
+  - [百度云盘](https://pan.baidu.com/s/15GgWeEJWr3ZIDQMqfTSOoQ), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/YeRHhAxPvaD), 提取码: h6z4
+***
+- Go语言核心编程
+
+  作者: 李文塔  
+  包含 pdf 格式  
+
+  - [百度云盘](https://pan.baidu.com/s/1px-QqgHCjxDJU6ljoTXOGQ), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/RhG8FTPCc4U), 提取码: l7b3
+***
+- Go语言程序设计
+
+  作者: 王鹏  
+  包含 pdf 格式  
+
+  - [百度云盘](https://pan.baidu.com/s/12WYALFynhBQ-hV2KBsJB3w), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/EbfMvm9ANa1), 提取码: y30t
+***
+- Go Web编程
+
+  包含 pdf, epub 格式  
+
+  - [百度云盘](https://pan.baidu.com/s/1B3yZ9tTL_m5HtfrNkyRjYw), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/VFWRnfhLo7d), 提取码: 4fb3
+***
+- Go语言程序设计-Mark
+
+  作者: Mark Summerfield  
+  包含 pdf 格式  
+
+  - [百度云盘](https://pan.baidu.com/s/1DB11p9n0cqCZnAG5GU2Qmg), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/nQTpP5e1BRU), 提取码: 67sh
+***
+
 ## 正则表达式
 
 - 精通正则表达式
