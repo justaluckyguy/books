@@ -336,6 +336,123 @@
       "spec": ["epub"]
     }
   ],
+  "Go": [
+    {
+      "name": "Go源码剖析",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/11hLpfy4uoqxMUhIx7Ttvaw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/35zZ7RmReuK",
+          "code": "65kg"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "Go程序设计语言",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1tsDMLvwYE_4fKWc9xxYwLg",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/6TCKeRjQkL1",
+          "code": "rp38"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "Go并发编程实战",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/15GgWeEJWr3ZIDQMqfTSOoQ",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/YeRHhAxPvaD",
+          "code": "h6z4"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "Go语言核心编程",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1px-QqgHCjxDJU6ljoTXOGQ",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/RhG8FTPCc4U",
+          "code": "l7b3"
+        }
+      ],
+      "spec": ["pdf"],
+      "author": ["李文塔"]
+    },
+    {
+      "name": "Go语言程序设计",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/12WYALFynhBQ-hV2KBsJB3w",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/EbfMvm9ANa1",
+          "code": "y30t"
+        }
+      ],
+      "spec": ["pdf"],
+      "author": ["王鹏"]
+    },
+    {
+      "name": "Go Web编程",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1B3yZ9tTL_m5HtfrNkyRjYw",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/VFWRnfhLo7d",
+          "code": "4fb3"
+        }
+      ],
+      "spec": ["pdf", "epub"]
+    },
+    {
+      "name": "Go语言程序设计-Mark",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1DB11p9n0cqCZnAG5GU2Qmg",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/nQTpP5e1BRU",
+          "code": "67sh"
+        }
+      ],
+      "spec": ["pdf"],
+      "author": ["Mark Summerfield"]
+    }
+  ],
   "正则表达式": [
     {
       "name": "精通正则表达式",
