@@ -22,6 +22,8 @@
   - [HBase](https://github.com/xjq7/books/tree/master/数据库#HBase)
   - [MySQL](https://github.com/xjq7/books/tree/master/数据库#MySQL)
   - [Redis](https://github.com/xjq7/books/tree/master/数据库#Redis)
+- [程序设计](https://github.com/xjq7/books/tree/master/程序设计)
+  - [设计模式](https://github.com/xjq7/books/tree/master/程序设计#设计模式)
 - [编程语言](https://github.com/xjq7/books/tree/master/编程语言)
   - [C](https://github.com/xjq7/books/tree/master/编程语言#C)
   - [C#](https://github.com/xjq7/books/tree/master/编程语言#C#)
@@ -31,7 +33,7 @@
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
   - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
-  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [Web安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
   - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
@@ -40,6 +42,8 @@
   - [基础](https://github.com/xjq7/books/tree/master/计算机网络#基础)
   - [协议](https://github.com/xjq7/books/tree/master/计算机网络#协议)
   - [网络编程](https://github.com/xjq7/books/tree/master/计算机网络#网络编程)
+- [软件工程](https://github.com/xjq7/books/tree/master/软件工程)
+  - [敏捷开发](https://github.com/xjq7/books/tree/master/软件工程#敏捷开发)
 
 <!--insert-books-category-end-->
 
