@@ -99,5 +99,39 @@
       ],
       "spec": ["epub"]
     }
+  ],
+  "其他": [
+    {
+      "name": "软件开发本质论：追求简约、体现价值、逐步构建",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/KJCiuNx8S8N",
+          "code": "8j0y"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1zzzXUPx2jUuXcXT_ChGJGw",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub", "pdf"]
+    },
+    {
+      "name": "简约之美-软件设计之道",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/3PnXMjsqATh",
+          "code": "e3s4"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1Qfntp87yO0dzayFHnCglqQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    }
   ]
 }

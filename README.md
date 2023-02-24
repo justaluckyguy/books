@@ -210,14 +210,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - [Hadoop 实战(第 2 版).epub](<https://static.xjq.icu/book/hadoop实战(第2版).epub>)
 
-### 软件工程
-
-链接: https://pan.baidu.com/s/1daYvfhpi7FuxSG5yePV5nw 提取码: ap26
-
-- 简约之美-软件设计之道
-
-- 软件开发本质论：追求简约、体现价值、逐步构建,epub,pdf
-
 ### 编程
 
 链接: https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg 提取码: n7ef
