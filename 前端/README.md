@@ -111,4 +111,11 @@
 
   - [阿里云盘](https://www.aliyundrive.com/s/WqetSi5ZPEX), 提取码: 34ej
 ***
+- 精通D3.js交互式数据可视化高级编程
+
+  包含 pdf 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/u7nYeAT2hgm), 提取码: 8s4a
+  - [百度云盘](https://pan.baidu.com/s/10LPCwZntJxMMACtJ4FN3hw), 提取码: book
+***
 
