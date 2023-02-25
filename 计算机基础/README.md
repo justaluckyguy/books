@@ -184,3 +184,65 @@
   - [百度云盘](https://pan.baidu.com/s/1uZO33npLaUAdrrxzE4dDAw), 提取码: book
 ***
 
+## 数据结构
+
+- 大话数据结构
+
+  包含 pdf 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/rEXyeBeBUWk), 提取码: z18a
+  - [百度云盘](https://pan.baidu.com/s/1mIa3x7dETXS0cxsBkunyWg), 提取码: book
+  - [直链](https://static.xjq.icu/book/大话数据结构.pdf)
+***
+- 数据结构(C语言版)
+
+  包含 pdf 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/cucovNUjmSu), 提取码: 30kr
+  - [百度云盘](https://pan.baidu.com/s/1FFmC4U2QZeuCwwB2aTXCiQ), 提取码: book
+  - [直链](https://static.xjq.icu/book/数据结构(C语言版)(严蔚敏).pdf)
+***
+- 数据结构与算法 Java版
+
+  包含 pdf 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/9iDNLVT2CNk), 提取码: cr75
+  - [百度云盘](https://pan.baidu.com/s/1E-UuA62DBVV-1mJEHci2dw), 提取码: book
+***
+- 数据结构与抽象 Java语言描述
+
+  包含 pdf 格式  
+  包含的版本: 第4版  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/f2QARenK7qJ), 提取码: 8gu1
+  - [百度云盘](https://pan.baidu.com/s/1DPAZM1e-wDw43aXl1lyvxg), 提取码: book
+***
+- 数据结构与算法
+
+  作者: 廖明宏  
+  包含 pdf 格式  
+  包含的版本: 第4版  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/UbmVpRp4gGW), 提取码: 55bn
+  - [百度云盘](https://pan.baidu.com/s/1vjPqF2VtxPaz-EKatvksJg), 提取码: book
+***
+- 数据结构与算法
+
+  作者: 廖明宏  
+  包含 pdf 格式  
+  包含的版本: 第4版  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/UbmVpRp4gGW), 提取码: 55bn
+  - [百度云盘](https://pan.baidu.com/s/1vjPqF2VtxPaz-EKatvksJg), 提取码: book
+***
+- C++数据结构
+
+  作者: 邓俊辉  
+  包含 pdf 格式  
+  包含的版本: 第3版  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/iFtoLdsfvKf), 提取码: ui53
+  - [百度云盘](https://pan.baidu.com/s/1bs7MOwA1l8oZd-OqcQ3diw), 提取码: book
+  - [直链](https://static.xjq.icu/book/C++数据结构(邓俊辉).pdf)
+***
+

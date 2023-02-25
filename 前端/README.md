@@ -34,6 +34,7 @@
 - 深入浅出 Webpack
 
   - [阿里云盘](https://www.aliyundrive.com/s/aSGq7fsq3eU), 提取码: dt89
+  - [百度云盘](https://pan.baidu.com/s/1A7_3ss7po6Ws3fOfdN4NYQ), 提取码: book
 ***
 
 ## HTML

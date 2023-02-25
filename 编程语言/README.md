@@ -214,7 +214,11 @@
 
 - 精通正则表达式
 
+  包含 pdf, epub 格式  
+  包含的版本: 第3版  
+
   - [阿里云盘](https://www.aliyundrive.com/s/rkVFGy6nSv5), 提取码: 57zx
+  - [百度云盘](https://pan.baidu.com/s/1rZZyCx2YdrROFsMPegCMdA), 提取码: book
 ***
 
 ## Nodejs
