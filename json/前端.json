@@ -205,6 +205,7 @@
       ]
     }
   ],
+
   "其他": [
     {
       "name": "现代前端技术解析",
@@ -269,6 +270,22 @@
           "code": "34ej"
         }
       ]
+    },
+    {
+      "name": "精通D3.js交互式数据可视化高级编程",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/u7nYeAT2hgm",
+          "code": "8s4a"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/10LPCwZntJxMMACtJ4FN3hw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
     }
   ]
 }

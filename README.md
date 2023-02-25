@@ -34,7 +34,7 @@
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
   - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
-  - [Web安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
   - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
@@ -300,18 +300,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - 垃圾回收的算法与实现, pdf
 
-### 移动端
-
-链接: https://pan.baidu.com/s/18mcE4Bt0NTUJdXJnjqNavg 提取码: hp61
-
-- 第一行代码：Android,epub
-
-- Android 软件安全与逆向分析,epub
-
-- Android 开发艺术探索,epub
-
-- 音视频开发进阶指南基于 android 与 ios 平台的实践,epub
-
 ### 区块链
 
 链接: https://pan.baidu.com/s/1luuIc7pqq9KdpBMXw5u0sg 提取码: g9g9
@@ -426,16 +414,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - 单页 Web 应用：JavaScript 从前端到后端,pdf
 
-#### 可视化
-
-- 精通 D3.js 交互式数据可视化高级编程,pdf
-
-#### 安全
-
-- [Web 安全开发指南.mobi](https://static.xjq.icu/book/Web安全开发指南.mobi)
-
-- Web 前端黑客技术揭秘,pdf
-
 ### 计算机基础
 
 链接: https://pan.baidu.com/s/1WOxh--JP5u5SKTx6cfGGhw 提取码: km3v
@@ -503,20 +481,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 - [人工智能技术.pdf](https://static.xjq.icu/book/人工智能技术.pdf)
 
 - [AI·未来.epub](https://static.xjq.icu/book/AI·未来.epub)
-
-### 游戏开发
-
-- 游戏编程模式,epub
-
-- 游戏设计的 100 个原理,epub
-
-- 游戏设计的 236 个技巧,epub
-
-- 游戏设计快乐之道(第 2 版),epub
-
-- 游戏开发的数学和物理,epub
-
-- 通关！游戏设计之道（第 2 版）,epub,pdf
 
 ## 数学
 

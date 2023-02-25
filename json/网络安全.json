@@ -36,6 +36,42 @@
         }
       ],
       "spec": ["epub", "mobi"]
+    },
+    {
+      "name": "Web安全开发指南",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/156gZR9waVArzsUOk3XHNEQ",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/EMuuHSNT5zA",
+          "code": "07mf"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/Web安全开发指南.mobi"
+        }
+      ],
+      "spec": ["mobi"]
+    },
+    {
+      "name": "Web前端黑客技术揭秘",
+      "source": [
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1TJA4M-fFCdkby-n3LKZQTA",
+          "code": "book"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/7Qp7okknhH2",
+          "code": "12tl"
+        }
+      ],
+      "spec": ["pdf"]
     }
   ],
   "密码学": [

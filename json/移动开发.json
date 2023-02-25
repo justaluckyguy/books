@@ -1,0 +1,71 @@
+{
+  "Android": [
+    {
+      "name": "第一行代码：Android",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/B5cb1V154Sj",
+          "code": "k12y"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1Xz0Bm9uGJfqtea5ikpwLfA",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"],
+      "version": ["第2版"]
+    },
+    {
+      "name": "Android软件安全与逆向分析",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/cR8gBUDyU9h",
+          "code": "90qe"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1OthWDiqWPcaDczn7o6Z9lA",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "Android开发艺术探索",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/RcAcR4KDNHg",
+          "code": "p97t"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1WS_TnlhDtolZNaF9I0_lUQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    }
+  ],
+  "其他": [
+    {
+      "name": "音视频开发进阶指南基于android与ios平台的实践",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/scBWjWuR68P",
+          "code": "mk70"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1F6DcNaLRxs642qdI_rGRBg",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    }
+  ]
+}

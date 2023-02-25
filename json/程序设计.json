@@ -96,5 +96,104 @@
       ],
       "spec": ["pdf"]
     }
+  ],
+  "游戏开发": [
+    {
+      "name": "游戏编程模式",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/ZnBR8tsZa9F",
+          "code": "8r7k"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1Aq7saAk-6bkKWkvFrv7tzw",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "游戏开发的数学和物理",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/o3j5uwmwsZx",
+          "code": "m0d2"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/140pMbkXx_jmM_5f9EL_S5A",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "游戏设计的100个原理",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/BApAkp6vQGs",
+          "code": "dh96"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1QNM9V__c6VQ1auZhhtRKsw",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "游戏设计的236个技巧",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/9dCiBPbTRQf",
+          "code": "w6f1"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1B5FplFQloeFUSU8317vR2g",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    },
+    {
+      "name": "通关！游戏设计之道",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/nyGebRgmhdb",
+          "code": "xg08"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1B5FplFQloeFUSU8317vR2g",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "游戏设计快乐之道",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/uzeXwu6hYGE",
+          "code": "i4r0"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1HxYGye375mwsxrvaFV7M0Q",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"],
+      "version": ["第2版"]
+    }
   ]
 }
