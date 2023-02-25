@@ -10,6 +10,9 @@
 
 <!--insert-books-category-head-->
 
+- [互联网](https://github.com/xjq7/books/tree/master/互联网)
+  - [产品](https://github.com/xjq7/books/tree/master/互联网#产品)
+  - [其他](https://github.com/xjq7/books/tree/master/互联网#其他)
 - [前端](https://github.com/xjq7/books/tree/master/前端)
   - [图形学](https://github.com/xjq7/books/tree/master/前端#图形学)
   - [框架](https://github.com/xjq7/books/tree/master/前端#框架)
@@ -38,7 +41,7 @@
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
   - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
-  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [Web安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
   - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
