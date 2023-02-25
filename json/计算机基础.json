@@ -513,5 +513,138 @@
         }
       ]
     }
+  ],
+  "数据结构": [
+    {
+      "name": "大话数据结构",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/rEXyeBeBUWk",
+          "code": "z18a"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1mIa3x7dETXS0cxsBkunyWg",
+          "code": "book"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/大话数据结构.pdf"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "数据结构(C语言版)",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/cucovNUjmSu",
+          "code": "30kr"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1FFmC4U2QZeuCwwB2aTXCiQ",
+          "code": "book"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/数据结构(C语言版)(严蔚敏).pdf"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "数据结构与算法 Java版",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/9iDNLVT2CNk",
+          "code": "cr75"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1E-UuA62DBVV-1mJEHci2dw",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"]
+    },
+    {
+      "name": "数据结构与抽象 Java语言描述",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/f2QARenK7qJ",
+          "code": "8gu1"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1DPAZM1e-wDw43aXl1lyvxg",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第4版"]
+    },
+    {
+      "name": "数据结构与算法",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/UbmVpRp4gGW",
+          "code": "55bn"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1vjPqF2VtxPaz-EKatvksJg",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第4版"],
+      "author": ["廖明宏"]
+    },
+    {
+      "name": "数据结构与算法",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/UbmVpRp4gGW",
+          "code": "55bn"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1vjPqF2VtxPaz-EKatvksJg",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第4版"],
+      "author": ["廖明宏"]
+    },
+    {
+      "name": "C++数据结构",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/iFtoLdsfvKf",
+          "code": "ui53"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1bs7MOwA1l8oZd-OqcQ3diw",
+          "code": "book"
+        },
+        {
+          "name": "直链",
+          "link": "https://static.xjq.icu/book/C++数据结构(邓俊辉).pdf"
+        }
+      ],
+      "spec": ["pdf"],
+      "version": ["第3版"],
+      "author": ["邓俊辉"]
+    }
   ]
 }

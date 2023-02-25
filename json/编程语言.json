@@ -461,8 +461,15 @@
           "name": "阿里云盘",
           "link": "https://www.aliyundrive.com/s/rkVFGy6nSv5",
           "code": "57zx"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1rZZyCx2YdrROFsMPegCMdA",
+          "code": "book"
         }
-      ]
+      ],
+      "spec": ["pdf", "epub"],
+      "version": ["第3版"]
     }
   ],
   "Nodejs": [

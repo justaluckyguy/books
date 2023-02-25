@@ -38,7 +38,7 @@
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
   - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
-  - [Web安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
   - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
@@ -344,24 +344,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - 图解物联网,mobi
 
-### 数据结构
-
-链接: https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ 提取码: bm5a
-
-- [数据结构(C 语言版)(严蔚敏).pdf](<https://static.xjq.icu/book/数据结构(C语言版)(严蔚敏).pdf>)
-
-- [大话数据结构.pdf](https://static.xjq.icu/book/大话数据结构.pdf)
-
-- 数据结构与抽象 Java 语言描述 第 4 版
-
-- 数据结构与算法 Java 版
-
-- 数据结构与算法 Python 语言描述裘宗燕
-
-- [C++数据结构(邓俊辉).pdf](<https://static.xjq.icu/book/C++数据结构(邓俊辉).pdf>)
-
-- 数据结构与算法（第四版）廖明宏
-
 ### 操作系统
 
 链接: https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ 提取码: e575
@@ -402,13 +384,9 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - Git 权威指南,pdf,epub
 
-- 深入浅出 Webpack
-
 - 构建高性能 WEB 站点
 
 - Web 前端黑客技术揭秘
-
-- 精通正则表达式-第三版-美-佛瑞德,pdf
 
 - 疯狂 HTML5+CSS3+JavaScript 讲义,mobi
 

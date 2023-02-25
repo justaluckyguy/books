@@ -76,6 +76,11 @@
           "name": "阿里云盘",
           "link": "https://www.aliyundrive.com/s/aSGq7fsq3eU",
           "code": "dt89"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1A7_3ss7po6Ws3fOfdN4NYQ",
+          "code": "book"
         }
       ]
     }
