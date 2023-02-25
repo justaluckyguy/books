@@ -1,0 +1,103 @@
+{
+  "产品": [
+    {
+      "name": "用户的本质",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/V5YwumW6vr9",
+          "code": "v52g"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1LoAJUb0UOjRSNwyaVF5IIw",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi"]
+    },
+    {
+      "name": "淘宝十年产品事",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/nM8WvuVuBhu",
+          "code": "qh18"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1rLZN8AVTCAFKM4bFIuFtcA",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf", "epub"]
+    },
+    {
+      "name": "腾讯产品法：一本书读懂腾讯产品思维与运营方法",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/8wpBVo2yPYG",
+          "code": "cg68"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1ld0nbbxGI8PHGqIKkpVvGw",
+          "code": "book"
+        }
+      ],
+      "spec": ["epub"]
+    }
+  ],
+  "其他": [
+    {
+      "name": "人人都该懂的互联网思维",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/ryHUBhjReGG",
+          "code": "64dd"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1kJZApY2Lh8u05apG02dqUQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi"]
+    },
+    {
+      "name": "浅薄-互联网如何毒化了我们的大脑",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/N4FS1PwWr4r",
+          "code": "0fq5"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/12QeGPqQ-SKZYgXcn2M6jdA",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi"]
+    },
+    {
+      "name": "看见未来：改变互联网世界的人们",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/mNFfxm6tcS6",
+          "code": "z9w9"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/19FUZUWM0HvX-Rb7jKzt6_A",
+          "code": "book"
+        }
+      ],
+      "spec": ["pdf"],
+      "author": ["余晨"]
+    }
+  ]
+}
