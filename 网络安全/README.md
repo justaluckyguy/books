@@ -24,13 +24,6 @@
   - [阿里云盘](https://www.aliyundrive.com/s/EMuuHSNT5zA), 提取码: 07mf
   - [直链](https://static.xjq.icu/book/Web安全开发指南.mobi)
 ***
-- Web前端黑客技术揭秘
-
-  包含 pdf 格式  
-
-  - [百度云盘](https://pan.baidu.com/s/1TJA4M-fFCdkby-n3LKZQTA), 提取码: book
-  - [阿里云盘](https://www.aliyundrive.com/s/7Qp7okknhH2), 提取码: 12tl
-***
 
 ## 密码学
 

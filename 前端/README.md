@@ -22,7 +22,11 @@
 ***
 - 深入浅出React和Redux
 
+  作者: 程墨  
+  包含 pdf 格式  
+
   - [阿里云盘](https://www.aliyundrive.com/s/q9CfHVp6pw5), 提取码: 84ah
+  - [百度云盘](https://pan.baidu.com/s/1qx0gUdMM801StJp4wS5N8A), 提取码: book
 ***
 
 ## 构建工具
@@ -53,6 +57,11 @@
 
   - [阿里云盘](https://www.aliyundrive.com/s/8mM3mJmD2hV), 提取码: 5w1z
   - [百度云盘](https://pan.baidu.com/s/1N7KvfKp9Kzs_gqeVqbhU6Q), 提取码: book
+***
+- 渐进增强的Web设计
+
+  - [阿里云盘](https://www.aliyundrive.com/s/27FDtYJtegW), 提取码: v4a7
+  - [百度云盘](https://pan.baidu.com/s/1T-tSrHGjJu4hVKT0dRb9fA), 提取码: book
 ***
 
 ## CSS
@@ -85,6 +94,28 @@
   - [百度云盘](https://pan.baidu.com/s/1PMkZC2948Cc4DB-4xhoQrA), 提取码: book
 ***
 
+## Javascript
+
+- 单页Web应用：JavaScript从前端到后端
+
+  - [阿里云盘](https://www.aliyundrive.com/s/F2NF4RfRXKD), 提取码: 9m4y
+  - [百度云盘](https://pan.baidu.com/s/1pC1sU5poNoBEalXZqWQPfw), 提取码: book
+***
+- 全栈应用开发：精益实践
+
+  包含 mobi 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/cEbFRiEWBXN), 提取码: gt61
+  - [百度云盘](https://pan.baidu.com/s/1os8iR6OkEuvodfxA_Ks7DQ), 提取码: book
+***
+- 疯狂HTML5+CSS3+JavaScript讲义
+
+  包含 mobi 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/Y5We1ACoaM9), 提取码: i69d
+  - [百度云盘](https://pan.baidu.com/s/1SqW_I4_aBBe3cNojmX-SqQ), 提取码: book
+***
+
 ## 其他
 
 - 现代前端技术解析
@@ -107,10 +138,7 @@
 - 构建高性能WEB站点
 
   - [阿里云盘](https://www.aliyundrive.com/s/VQr43dRHJxS), 提取码: 44iv
-***
-- 渐进增强的Web设计
-
-  - [阿里云盘](https://www.aliyundrive.com/s/WqetSi5ZPEX), 提取码: 34ej
+  - [百度云盘](https://pan.baidu.com/s/1YLqFVE8OqndX6oB2qr96dg), 提取码: book
 ***
 - 精通D3.js交互式数据可视化高级编程
 
@@ -118,5 +146,19 @@
 
   - [阿里云盘](https://www.aliyundrive.com/s/u7nYeAT2hgm), 提取码: 8s4a
   - [百度云盘](https://pan.baidu.com/s/10LPCwZntJxMMACtJ4FN3hw), 提取码: book
+***
+- Web前端开发最佳实践
+
+  包含 mobi 格式  
+
+  - [阿里云盘](https://www.aliyundrive.com/s/BrcHAkjWxpU), 提取码: 1w5x
+  - [百度云盘](https://pan.baidu.com/s/1_8hkXHRNfYKmpUV34rzoXg), 提取码: book
+***
+- Web 前端黑客技术揭秘
+
+  包含 pdf 格式  
+
+  - [百度云盘](https://pan.baidu.com/s/1TJA4M-fFCdkby-n3LKZQTA), 提取码: book
+  - [阿里云盘](https://www.aliyundrive.com/s/7Qp7okknhH2), 提取码: 12tl
 ***
 
