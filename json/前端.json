@@ -54,8 +54,15 @@
           "name": "阿里云盘",
           "link": "https://www.aliyundrive.com/s/q9CfHVp6pw5",
           "code": "84ah"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1qx0gUdMM801StJp4wS5N8A",
+          "code": "book"
         }
-      ]
+      ],
+      "author": ["程墨"],
+      "spec": ["pdf"]
     }
   ],
   "构建工具": [
@@ -127,6 +134,21 @@
         {
           "name": "百度云盘",
           "link": "https://pan.baidu.com/s/1N7KvfKp9Kzs_gqeVqbhU6Q",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "渐进增强的Web设计",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/27FDtYJtegW",
+          "code": "v4a7"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1T-tSrHGjJu4hVKT0dRb9fA",
           "code": "book"
         }
       ]
@@ -210,7 +232,55 @@
       ]
     }
   ],
-
+  "Javascript": [
+    {
+      "name": "单页Web应用：JavaScript从前端到后端",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/F2NF4RfRXKD",
+          "code": "9m4y"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1pC1sU5poNoBEalXZqWQPfw",
+          "code": "book"
+        }
+      ]
+    },
+    {
+      "name": "全栈应用开发：精益实践",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/cEbFRiEWBXN",
+          "code": "gt61"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1os8iR6OkEuvodfxA_Ks7DQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi"]
+    },
+    {
+      "name": "疯狂HTML5+CSS3+JavaScript讲义",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/Y5We1ACoaM9",
+          "code": "i69d"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1SqW_I4_aBBe3cNojmX-SqQ",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi"]
+    }
+  ],
   "其他": [
     {
       "name": "现代前端技术解析",
@@ -263,16 +333,11 @@
           "name": "阿里云盘",
           "link": "https://www.aliyundrive.com/s/VQr43dRHJxS",
           "code": "44iv"
-        }
-      ]
-    },
-    {
-      "name": "渐进增强的Web设计",
-      "source": [
+        },
         {
-          "name": "阿里云盘",
-          "link": "https://www.aliyundrive.com/s/WqetSi5ZPEX",
-          "code": "34ej"
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1YLqFVE8OqndX6oB2qr96dg",
+          "code": "book"
         }
       ]
     },
@@ -291,6 +356,22 @@
         }
       ],
       "spec": ["pdf"]
+    },
+    {
+      "name": "Web前端开发最佳实践",
+      "source": [
+        {
+          "name": "阿里云盘",
+          "link": "https://www.aliyundrive.com/s/BrcHAkjWxpU",
+          "code": "1w5x"
+        },
+        {
+          "name": "百度云盘",
+          "link": "https://pan.baidu.com/s/1_8hkXHRNfYKmpUV34rzoXg",
+          "code": "book"
+        }
+      ],
+      "spec": ["mobi"]
     }
   ]
 }

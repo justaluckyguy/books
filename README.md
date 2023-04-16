@@ -41,7 +41,7 @@
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
   - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
-  - [Web安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
   - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
@@ -370,23 +370,9 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 链接: https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ 提取码: e17s
 
-- 深入浅出 React 和 Redux-程墨,pdf
-
-- 渐进增强的 Web 设计
-
 - Git 权威指南,pdf,epub
 
-- 构建高性能 WEB 站点
-
 - Web 前端黑客技术揭秘
-
-- 疯狂 HTML5+CSS3+JavaScript 讲义,mobi
-
-- Web 前端开发最佳实践, mobi
-
-- 全栈应用开发：精益实践,mobi
-
-- 单页 Web 应用：JavaScript 从前端到后端,pdf
 
 ### 计算机基础
 
