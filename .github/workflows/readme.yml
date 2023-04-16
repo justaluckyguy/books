@@ -31,7 +31,7 @@ jobs:
           node-version: 18.14.0
 
       - name: Install pnpm
-        run: npm i pnpm -g
+        run: npm i pnpm@7 -g
 
       - name: Install Packages
         run: pnpm install

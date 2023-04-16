@@ -372,8 +372,6 @@ json 数据更新提交至 master 分支后会自动触发 github action 更新�
 
 - Git 权威指南,pdf,epub
 
-- Web 前端黑客技术揭秘
-
 ### 计算机基础
 
 链接: https://pan.baidu.com/s/1WOxh--JP5u5SKTx6cfGGhw 提取码: km3v
