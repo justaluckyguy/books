@@ -1,3 +1,9 @@
+## 交流
+
+- qq 交流群, 群号: 246368672
+
+<img width=200 src="https://image.xjq.icu/2023/5/31/1685513294500_books_group.jpg"/>
+
 ## 必读!!!
 
 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式
