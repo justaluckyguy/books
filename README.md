@@ -1,8 +1,8 @@
 ## 交流
 
-- qq 交流群, 群号: 246368672
+添加小助手微信进入微信交流群
 
-<img width=200 src="https://image.xjq.icu/2023/5/31/1685513294500_books_group.jpg"/>
+<img width=200 src="https://image.xjq.icu/2023/7/11/1689041043150_books.jpg"/>
 
 ## 必读!!!
 
@@ -48,7 +48,7 @@
   - [R](https://github.com/xjq7/books/tree/master/编程语言#R)
   - [汇编语言](https://github.com/xjq7/books/tree/master/编程语言#汇编语言)
 - [网络安全](https://github.com/xjq7/books/tree/master/网络安全)
-  - [Web安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
+  - [Web 安全](https://github.com/xjq7/books/tree/master/网络安全#Web安全)
   - [密码学](https://github.com/xjq7/books/tree/master/网络安全#密码学)
 - [计算机基础](https://github.com/xjq7/books/tree/master/计算机基础)
   - [编译原理](https://github.com/xjq7/books/tree/master/计算机基础#编译原理)
